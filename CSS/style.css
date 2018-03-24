@@ -1,0 +1,47 @@
+body {
+  background-color: #f6d8ac;
+  text-align: center;
+}
+
+#input {
+  margin-bottom: 75px;
+}
+#firstName {
+  margin: 3px 0px 15px 0px;
+}
+#lastName {
+  margin: 3px 0px 15px 0px;
+}
+#age {
+  margin: 3px 0px 15px 0px;
+}
+#phoneNumber {
+  margin: 3px 0px 15px 0px;
+}
+#address {
+  margin: 3px 0px 15px 0px;
+}
+
+img {
+   width: 90px;
+   height: 90px;
+   float: left;
+}
+
+#idCard {
+   background-color: #8ec3eb;
+   border: 5px solid black;
+   border-radius: 25px;
+   height: 14em;
+   width: 25em;
+   margin: auto;
+   font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+   font-size: 15px;
+   text-align: left;
+   padding: 20px;
+  
+}
+
+#postFullName {
+  font-size: 30px;
+}
